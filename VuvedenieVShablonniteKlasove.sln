@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutiqST", "KutiqST\KutiqST.csproj", "{34AB3A3A-E243-45B6-BB29-2045CA244B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KutiqZaVsichko", "KutiqZaVsichko\KutiqZaVsichko.csproj", "{A003C308-6CE6-439C-BE7D-B5779DFF2DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalnaKutiqZaNizove", "UniversalnaKutiqZaNizove\UniversalnaKutiqZaNizove.csproj", "{51654C2B-2FC4-4615-875E-81A976F3FA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AB3A3A-E243-45B6-BB29-2045CA244B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AB3A3A-E243-45B6-BB29-2045CA244B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AB3A3A-E243-45B6-BB29-2045CA244B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AB3A3A-E243-45B6-BB29-2045CA244B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A003C308-6CE6-439C-BE7D-B5779DFF2DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A003C308-6CE6-439C-BE7D-B5779DFF2DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A003C308-6CE6-439C-BE7D-B5779DFF2DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A003C308-6CE6-439C-BE7D-B5779DFF2DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51654C2B-2FC4-4615-875E-81A976F3FA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51654C2B-2FC4-4615-875E-81A976F3FA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51654C2B-2FC4-4615-875E-81A976F3FA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51654C2B-2FC4-4615-875E-81A976F3FA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
